@@ -1,0 +1,14 @@
+							Remaining Stock
+							----------------------------------------------------------------------------------------
+							Sr.No.	Product Name				Price		Available Qauntity
+							----------------------------------------------------------------------------------------
+							1	COLGATE TOOTHPASTE                      100.0			100
+							2	DANTKANTI TOOTHPASTE                    120.0			150
+							3	DETTOL SOAP                             168.0			200
+							4	KISSAN KETCHUP                          99.0			120
+							5	APSARA PENCIL                           20.0			300
+							6	CLASSMATE BOOKS                         650.0			90
+							7	CAMEL WATER COLOR                       500.0			60
+							8	BASMATI RICE                            90.0			25
+							9	MADHUR SUGAR                            40.0			190
+							10	JIVARAJ TEA                             450.0			205
